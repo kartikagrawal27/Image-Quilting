@@ -1,0 +1,14 @@
+The breakdown of the points I believe I should get is as follows:
+
+
+1) (10) points for the random patch texture synthesis with one result (I have shown multiple)
+2) (30) points for the overlapping patch texture synthesis with one result (I have shown multiple)
+3) (20) points for the seam finding texture synthesis with five results (including at least two from your own images).
+4) (30) points for texture transfer with at least two results (including at least one from your own images).
+5) (15) points for quality of results (e.g., 0=poor 5=average 10=great 15=amazing)  - For each texture synthesis and texture transfer, I heavily tested on various variations of the values of pathsize, overlap, alpha and k, to get the best looking result. Please notice how smooth and well textured my final images from seam finding are. 
+
+Bells and whistles
+
+(15 pts) Implement the iterative texture transfer method described in the paper. Compare to the non-iterative method for two examples.
+
+Total Points: 120 
